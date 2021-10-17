@@ -105,8 +105,8 @@ public class LinkedList {
 		//list.deleteFirst();
 
 		list.find(12);
-//		list.delete(1);
-//		list.delete(9);
+		list.delete(1);
+		list.delete(9);
 
 		list.displayList();
 	}
